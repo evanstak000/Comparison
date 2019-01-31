@@ -3,10 +3,19 @@ Body{
 }
 h1{
     font-family:'Coda Caption', sans-serif; 
-    color: white
+    color: white;
+    text-shadow: 5px 5px 3px blue;
     }
     p{
         font-family:  'Ultra', serif;
-        color: whitesmoke
+        color: blue;
+        text-align: justify;
     }
-    
+    section{ 
+        background-color: black;
+        color: red;
+        font-family: 'Press Start 2P', cursive;
+        text-decoration-line: underline;
+        text-decoration-style: dashed;
+        text-align: justify;
+    }
